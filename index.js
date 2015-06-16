@@ -1,3 +1,3 @@
 module.exports={
-  FileAdapter: require('./lib/fileadapter')
+  FileAdapter: require('./lib/fileadapter').FileAdapter
 };
