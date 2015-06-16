@@ -1,0 +1,28 @@
+{
+  "name": "precis-file-adapter",
+  "version": "0.0.1",
+  "description": "A file adapter for Precis Logging Client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/precis-logging/file-adapter.git"
+  },
+  "keywords": [
+    "Precis",
+    "Logging",
+    "File"
+  ],
+  "author": "Jeremy Darling <jeremy.darling@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/precis-logging/file-adapter/issues"
+  },
+  "homepage": "https://github.com/precis-logging/file-adapter",
+  "dependencies": {
+    "async": "^1.2.1",
+    "tar-fs": "^1.5.1"
+  }
+}
